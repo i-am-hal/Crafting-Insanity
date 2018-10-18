@@ -1,0 +1,5 @@
+CopyPasta is a really small programming language.
+The commands only relate to copying and manipulating
+whatever is copied to your clipboard.
+It is used to promote copy pastas.
+Hope you enjoyed reading this!

@@ -1,0 +1,3 @@
+copyFile
+CopyPasta.txt
+pasta!
